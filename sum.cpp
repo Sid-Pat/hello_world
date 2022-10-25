@@ -6,6 +6,7 @@ ios_base::sync_with_stdio(false);
 cin.tie(NULL);
     int a=1;
     int b=2;
+    cout<<"Sum of a and b : ";
     cout<<a+b<<endl;
 return 0; 
 }
